@@ -26,4 +26,6 @@ for ($row = 1; $row <= $num_char; $row++)
 	echo '<br/>';
 }
 echo '</div>';//https://jagowebdev.com/membuat-segitiga-persegi-dan-motif-dengan-php-for-loop/
+
+//redian
 ?>
